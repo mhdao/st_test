@@ -27,8 +27,8 @@ Source code stored in **src/main** folder includes 2 classes
   - Chicken is child class of Bird, but it cannot fly, canfly property is set to false in contructor.
   - Rooster is child class of Chicken. it almost the same Chicken class, just different in the word to sing
   - Parrot is child class of Bird
-  - Fish is extended from Animal but it has new property canswim
-  - Shark, Clownfish is extended from Fish, but they have new extra properties
+  - Fish is extended from Animal but it has new property: canswim
+  - Shark, Clownfish are extended from Fish, but they have new extra properties: isSmallAndColourful,canMakeJoke,isLargeAndGrey,canEatOtherFish
   - Dolphin is not a Fish, Dolphin is extended from Animal, Dolphin class have fish property and swim method is route to swim of Fish class
   - Caterpillar is animal then it is extended from Animal class, **boolean canfly** is set to false by default say that it cannot fly
   - Butterfly is extended from Caterpillar, but it can fly then **boolean canfly** is set to true in contructor
