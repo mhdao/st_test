@@ -7,12 +7,11 @@ This is test exam, demostration the inheritance of methods and properties from A
 Below is source code structure of application:
 + st_test
 	+ src/main
-		+ test
 			+ InternationalRooster.java
 			+ Solution.java
 	+ src/test
 			+ InternationalRoosterTest.java
-      + SolutionTest.java
+			+ SolutionTest.java
 	+ lib    
 		+ junit-4.0.jar
 	+ README.md
