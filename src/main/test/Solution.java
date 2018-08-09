@@ -52,6 +52,7 @@ class Chicken extends Bird {
 class Rooster extends Chicken {
 	public Rooster() {
 		word = "Cock-a-doodle-doo";
+		canfly = false;
 	}
 }
 

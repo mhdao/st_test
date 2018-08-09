@@ -11,7 +11,6 @@ import test.Chicken;
 import test.Clownfish;
 import test.Dolphin;
 import test.Duck;
-import test.InternationalRooster;
 import test.Parrot;
 import test.Rooster;
 import test.Shark;
