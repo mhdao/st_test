@@ -35,4 +35,3 @@ public class InternationalRooster extends Rooster {
 		rooster.sing();
 	}
 }
-

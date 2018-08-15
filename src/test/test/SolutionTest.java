@@ -117,5 +117,4 @@ public class SolutionTest {
 		assertEquals(solution.singAnimal.size(), 5);
 		assertEquals(solution.swimAnimal.size(), 4);
 	}
-
 }

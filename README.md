@@ -38,3 +38,4 @@ Source code stored in **src/main** folder includes 2 classes
 Source code stored in **src/test** folder includes 2 classes
   - SolutionTest class contains all the test for Solution
   - InternationalRoosterTest contains all the test for InternationalRooster
+
